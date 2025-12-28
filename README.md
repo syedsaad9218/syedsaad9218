@@ -1,3 +1,8 @@
+# Hi, I'm Syed Saad 👋  
+
+🎓 **Final-Year Computer Science Engineering Student**  
+💻 **Python & Machine Learning**
+
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Building ML-backed backend applications using Python + Flask, focusing on real-world use cases like medical analysis systems and AI-powered tools.<br><br>👯 I’m looking to collaborate on<br><br>Machine Learning projects<br><br>Data analysis & visualization projects<br><br>AI-powered web applications (Flask / FastAPI + ML)<br><br>Open-source projects related to Python & ML<br><br>🤝 I’m looking for help with<br><br>Improving model optimization & performance tuning<br><br>Deploying ML models on cloud platforms (AWS)<br><br>Gaining deeper experience in production-level ML systems<br><br>🌱 I’m currently learning<br><br>Advanced Machine Learning techniques<br><br>Model deployment & MLOps basics<br><br>FastAPI and improving ReactJS integration<br><br>Cloud fundamentals (AWS)<br><br>💬 Ask me about<br><br>Python & OOP concepts<br><br>Flask REST APIs<br><br>Machine Learning basics (Scikit-learn, XGBoost)<br><br>Data analysis using Pandas & Matplotlib<br><br>ML project workflows (data → model → deployment)<br><br>⚡ Fun fact<br><br>I enjoy turning complex ML problems into simple, working applications — and I also teach Maths & Science to strengthen my problem-solving mindset 😄
 
